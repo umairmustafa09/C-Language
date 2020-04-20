@@ -113,7 +113,7 @@ int main()
 	//printing information on console.
 	printf("\nYour Give: \t\t\t\t%.2f PKR ",cash);
 	printf("\nYour change: \t\t\t\t%.2f PKR",amountReturn);
-	printf("\n\n*****************************************************************");
+	printf("\n\n****************************************************************");
 
 	//printing information on console.
 	fprintf(fptr,"\nYour Give: \t\t\t\t%.2f PKR ",cash);
